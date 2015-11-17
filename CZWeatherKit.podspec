@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Comyar Zaheri" => "comyarzaheri@gmail.com" }
   s.homepage     = "https://github.com/comyarzaheri/CZWeatherKit"
-  s.source       = { :git => "https://github.com/comyarzaheri/CZWeatherKit.git", :tag => s.version.to_s}
+  s.source       = { :git => "https://github.com/cerupcat/CZWeatherKit.git", :tag => s.version.to_s}
   s.module_name  = 'CZWeatherKit'
   s.requires_arc = true
 
